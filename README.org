@@ -1,0 +1,21 @@
+# -*- Mode: Org -*-
+#+STARTUP: customtime showall
+
+* Keybindings
+
+- "cmd-alt-ctrl 1" for maximized window
+
+- "cmd-alt-ctrl 2" for half width (or half height) window (pressing
+  the key combo repeatedly cycles through the different
+  size/positions)
+
+- "cmd-alt-ctrl 3" for 33% width/height
+
+- "cmd-alt-ctrl 4" for quadrant sizes
+
+- "cmd-alt-ctrl f" for a 75% size frame centered
+
+- "cmd-alt-ctrl z" to enable/disable caffeine mode (don’t let display
+  sleep)
+
+- "cmd-alt-ctrl r" reloads the config
